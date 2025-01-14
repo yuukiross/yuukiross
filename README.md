@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm  Simon Sanford</h1>
 <h3 align="center">A Senior Fullstack Blockchain Engineer</h3>
 
 <p align="center"> 
