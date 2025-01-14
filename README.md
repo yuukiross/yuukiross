@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Simon Sanford</h1>
-<h3 align="center">A Senior React/React Native/Node.js/RoR/ASP.NET Developer from Japan</h3>
+<h3 align="center">A Senior Fullstack Blockchain Engineer</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
